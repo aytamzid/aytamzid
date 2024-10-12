@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **DeveloperLook**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & NextJS**
 
 - 📫 How to reach me **aytamzid@gmail.com**
 
